@@ -1,10 +1,10 @@
-# FAAAAH
+# Error-sound-on-terminal
 
-Play a sound when there is an error on the command line (zsh).
+🔊 Play a sound when a command fails in the terminal — zsh hook that alerts you on errors
 
 ## Installation
 
-1. Add your preferred error sound as `error.mp3` in this directory (or use the included placeholder).
+1. Add your preferred error sound as `error.mp3` in this directory (or use the included one).
 2. Run:
    ```bash
    ./install.sh
