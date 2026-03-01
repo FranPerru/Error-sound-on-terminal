@@ -1,0 +1,10 @@
+# FAAAAH config - copy to ~/.faaaah/config to customize
+
+# Path to error sound file (default: ~/.faaaah/error.mp3)
+# FAAAAH_SOUND="${HOME}/.faaaah/error.mp3"
+
+# Enable logging of failed commands (0=off, 1=on)
+FAAAAH_LOG=0
+
+# Log file path when FAAAAH_LOG=1 (default: ~/.faaaah/faaaah.log)
+# FAAAAH_LOG_FILE="${HOME}/.faaaah/faaaah.log"
